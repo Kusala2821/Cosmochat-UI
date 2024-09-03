@@ -1,0 +1,505 @@
+{
+  "sessions": [
+    {
+      "id": "1",
+      "date": "Aug 7, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi\nwhat is artificial intelligence",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "2",
+      "date": "Aug 7, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "3",
+      "date": "Aug 7, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "what is computer",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "4",
+      "date": "Aug 7, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "what is computer",
+          "ReX": ""
+        },
+        {
+          "user": "computer",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "5",
+      "date": "Aug 8, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "computer",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "6",
+      "date": "Aug 8, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "computer",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "7",
+      "date": "Aug 8, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "computer",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "8",
+      "date": "Aug 8, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "computer\n",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "9",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "computer",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "10",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "11",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "what is laptop",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "12",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi\n",
+          "ReX": ""
+        },
+        {
+          "user": "what is computer",
+          "ReX": "Hello! How can I assist you today with your career? Feel free to share any updates or ask for advice."
+        },
+        {
+          "user": "what is computer",
+          "ReX": "A computer is an electronic device that processes and stores data. It consists of hardware components like the central processing unit (CPU), motherboard, memory, and storage devices. These components work together to execute instructions and run software applications, allowing users to perform tasks like word processing, web browsing, and gaming. It's a versatile tool used in various fields like business, education, and entertainment. If you're interested in pursuing a career involving computers, consider fields like software development, cybersecurity, data analysis, or"
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "13",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "what is iphone",
+          "ReX": ""
+        },
+        {
+          "user": "",
+          "ReX": "\"An iPhone is a popular smartphone developed by Apple Inc. It combines a mobile phone, computer, camera, and multimedia player into one device. It runs on the iOS operating system, which offers a wide range of apps for various purposes. iPhones are known for their sleek design, quality camera, and smooth user experience. They are widely used for communication, browsing the internet, social media, gaming, and much more.\""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "14",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "what is react",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "15",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "what is react",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "16",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "react\n",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "17",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "what is front end\n",
+          "ReX": ""
+        },
+        {
+          "user": "rex?\n",
+          "ReX": "Front end refers to the visual and interactive components of a website or application that users interact with directly. As a front end developer, you would be responsible for designing, coding, and optimizing these elements to create an engaging user experience. To excel in this career path, focus on mastering programming languages like HTML, CSS, and JavaScript, as well as gaining experience with popular front end frameworks such as React or Angular. Remember to keep up with industry trends and continuously improve your design and development skills to stay competitive"
+        },
+        {
+          "user": "hello",
+          "ReX": "Hello! How can I assist you today with your career?"
+        },
+        {
+          "user": "what is react",
+          "ReX": "Hello! Welcome back! How can I assist you with your career today?"
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "18",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi",
+          "ReX": ""
+        },
+        {
+          "user": "what is mouse\n",
+          "ReX": ""
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "19",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi\n",
+          "ReX": ""
+        },
+        {
+          "user": "what is rex",
+          "ReX": "Hello! How can I assist you with your career today? Remember, I'm here to provide guidance and support."
+        },
+        {
+          "user": "what is pen",
+          "ReX": "Hello! I'm ReX, your career advice assistant. How can I help you with your career today?"
+        },
+        {
+          "user": "pencil\n",
+          "ReX": "Pen is a writing instrument that uses ink to create text. If you're considering a career related to pens, you could explore becoming a calligrapher, graphic designer specializing in typography, product designer focusing on stationery, or a marketing specialist in the office supplies industry. Your interest in pens suggests you may have a passion for creativity and precision, so look for opportunities that allow you to express those qualities in your work."
+        },
+        {
+          "user": "text",
+          "ReX": "It seems like you might be looking for some advice on your career! Can you provide me with some more information so I can offer you some personalized guidance?"
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "20",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi\n",
+          "ReX": ""
+        },
+        {
+          "user": "book",
+          "ReX": "Hello! How can I assist you today with your career advice?"
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "21",
+      "date": "Aug 10, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi\n",
+          "ReX": ""
+        },
+        {
+          "user": "i need career guidence for front end",
+          "ReX": "Hello! How can I assist you today? If you have any career-related questions or need advice, feel free to ask!"
+        },
+        {
+          "user": "career guidence for front end\n",
+          "ReX": "To pursue a career in front-end development, start by learning HTML, CSS, and JavaScript thoroughly. Practice creating websites and projects to showcase your skills. Familiarize yourself with popular front-end frameworks like React, Angular, or Vue.js. Stay updated on industry trends and technologies. Consider building a portfolio to demonstrate your capabilities to potential employers. Networking with other developers and seeking mentorship can also be beneficial for your career growth. Good luck on your front-end development journey!"
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "22",
+      "date": "Aug 13, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "Hi\n",
+          "ReX": ""
+        },
+        {
+          "user": "What is meant by internship",
+          "ReX": "Hello! How can I assist you today with your career?"
+        },
+        {
+          "user": "provide me the basic answer",
+          "ReX": "An internship is a temporary position within a company or organization where individuals, typically students or recent graduates, gain practical work experience in a specific field or industry. It's a great opportunity to apply classroom knowledge to real-world situations, build valuable skills, network with professionals, and potentially secure a full-time job in the future. If you're considering an internship, make sure to choose one that aligns with your career goals and provides you with the learning opportunities you seek."
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "23",
+      "date": "Aug 13, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "24",
+      "date": "Aug 13, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi\n",
+          "ReX": ""
+        },
+        {
+          "user": "what is a computer\n",
+          "ReX": "Hello! How can I assist you with your career today?"
+        },
+        {
+          "user": "Computer means\n",
+          "ReX": "A computer is an electronic device that processes data in order to perform various tasks. It consists of hardware components like a central processing unit (CPU), memory, and storage devices, as well as software that directs the hardware to perform specific functions. Computers are versatile tools used in almost every industry for tasks like word processing, data analysis, graphic design, gaming, and more. If you're considering a career involving computers, you may want to explore fields like computer science, information technology, software development, or"
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+      "id": "25",
+      "date": "Aug 17, 2024",
+      "chats": [
+        {
+          "ReX": [
+            "Hello User, I am ReX. 😁",
+            "What aspect of your career would you like guidance on?"
+          ]
+        },
+        {
+          "user": "hi",
+          "ReX": ""
+        },
+        {
+          "user": "what is a computer\n",
+          "ReX": "Hello! How can I assist you today with your career goals or concerns?"
+        },
+        {
+          "user": "how can i assist the computer\n",
+          "ReX": "A computer is an electronic device that processes data through instructions stored in its memory. It can perform various tasks such as calculations, data storage, communication, and more. Understanding computers can be beneficial for your career, as many jobs today require basic computer skills. If you want to delve deeper into the world of computers, consider pursuing a career in computer science, IT, or software development. These fields offer numerous opportunities for growth and innovation."
+        }
+      ],
+      "isSessionEnded": true
+    }
+  ]
+}

@@ -125,20 +125,17 @@ npm start
    
 # Output Screenshots
    Home Page:
-   
-   ![Home Page](https://github.com/user-attachments/assets/c3f24d12-c2a1-4bb0-94db-8806ee8edb63)
-   
+   ![Home Page](https://github.com/user-attachments/assets/7bb621c0-b8df-4aad-bc2f-eba9fd66bbea)
+
    Rex Chat:
-   
-   ![Rex Chat](https://github.com/user-attachments/assets/280c842f-17a0-4e8d-b922-e54e878b9866)
-   
+   ![Rex Chat](https://github.com/user-attachments/assets/63d87cac-1c0a-4de2-ad23-cacb7d6f1a58)
+
    Rex chat Response:
-   
-   ![Response](https://github.com/user-attachments/assets/2d0bfacf-8f2b-48c4-b5c5-e542d4bbd83e)
-   
+   ![Rex Chat Response](https://github.com/user-attachments/assets/f3afa087-541d-48b5-bf62-98ddf6754488)
+
    Statistics Dashboard:
-   
-   ![Statistics](https://github.com/user-attachments/assets/4c11a558-6486-4d90-b440-35d71189d312)
+   ![STatistics Dashboard](https://github.com/user-attachments/assets/d12c2ae3-8e26-4ddf-9f1b-9a54737569f5)
+
 
 
 
